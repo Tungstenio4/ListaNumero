@@ -8,13 +8,7 @@ Este projeto contém uma função em Python que analisa uma lista de números in
 - `teste.py`: Importa e utiliza a função `analisar_lista` com a lista fornecida.
 - `README.md`: Este arquivo com a documentação do projeto.
 
-## Como Usar
-1. Certifique-se de que ambos os arquivos (`analise.py` e `teste.py`) estão no mesmo diretório.
-2. Execute o arquivo `teste.py` com Python:
-   ```bash
-   python teste.py
-   ```
-3. A saída mostrará:
+A saída mostrará:
    - O maior número da lista
    - O menor número da lista
    - A soma de todos os números
